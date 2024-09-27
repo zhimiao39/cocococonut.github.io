@@ -24,7 +24,7 @@ titles:
       fr-LU   : *FR
       tr      : &TR       Arşivdekiler
       # @end locale config
-key: page-about
+key: page-favorites
 ---
 
 待补充……
